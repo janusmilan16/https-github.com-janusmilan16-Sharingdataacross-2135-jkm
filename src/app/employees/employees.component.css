@@ -11,7 +11,7 @@ table {
 }
 
 tbody tr:nth-child(odd) {
-  background-color: lightgrey;
+  background-color: rgb(48, 141, 148);
 }
 
 th,
@@ -22,7 +22,7 @@ td {
 }
 
 thead {
-  background-color: darkorange;
+  background-color: rgb(165, 216, 224);
 }
 
 td {

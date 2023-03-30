@@ -25,9 +25,9 @@ export class EmployeesService {
       },
       {
         id: 104,
-        firstname: 'Shem Kahlil',
-        lastname: 'Payad',
-        email: 'shem_24payad@yahoo.com',
+        firstname: 'Janus Keith',
+        lastname: 'Milan',
+        email: 'janusmilan.16.14@gmail.com',
       },
     ];
   }
